@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/93/94/s2O0Ip.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 3vw;
+}
+h3{
+    color:white;
+    font-size: 2vw;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    text-align: right;
+}
+li > a{
+    color:white;
+    font-size: 3vw;
+}
+.title{
+    border: white 5px solid;
+    position: absolute;
+    top: 70%;
+    left: 5%;
+    border-radius: 30px;
+}
+.links{
+    border: red 5px solid;
+    position: absolute;
+    top: 70%;
+    right: 10%;
+    border-radius: 15px;
+}
