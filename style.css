@@ -1,8 +1,13 @@
 body{
-    background-image: url("https://cdn.wallpapersafari.com/93/94/s2O0Ip.jpg");
+        background-image: url("https://cdn.wallpapersafari.com/93/94/s2O0Ip.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+body::after{
+    background-color: rgba(0, 0, 0, 0.486);
+}
+
 h1{
     color: white;
     font-size: 3vw;
